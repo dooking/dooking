@@ -8,9 +8,6 @@ I am a full stack developer from South Korea
 
 ## Stats
 ![Dooking's github stats](https://github-readme-stats.vercel.app/api?username=dooking&show_icons=true)
-<div align="center">
-  <img src="https://img.shields.io/github/followers/dooking?style=social"/>
-</div>
 
 ### 📫 Contacts 
 
