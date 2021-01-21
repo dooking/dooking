@@ -4,8 +4,7 @@
 
 ![Dooking's github stats](https://github-readme-stats.vercel.app/api?username=dooking&show_icons=true)
 
-### Contacts 📫
+### 📫 Contacts 
 
-* Github Repo Issue
-* Twitter DM: @dev_kinetic
-* Email: aheui@kakao.com
+- Email : 123456ghghgh@naver.com
+- Blog : [Notion Blog](https://www.notion.so/dooking/ca96e1b7b8f841d49729797969fc4325) 
