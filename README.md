@@ -4,6 +4,4 @@
 - 네이버 커넥트재단 부스트캠프 (2020.07 ~ 2020.12) 
 
 ## Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dooking&layout=compact)  
-
 ![Dooking's github stats](https://github-readme-stats.vercel.app/api?username=dooking&show_icons=true)
