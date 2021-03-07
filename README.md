@@ -2,7 +2,8 @@
 - 멋쟁이사자처럼 8기 (2020.03 ~ 2020.12)
 - 고려대학교 SW 봉사단 (2020.07 ~ )
 - 네이버 커넥트재단 부스트캠프 (2020.07 ~ 2020.12) 
-- 네이버 인턴 (2020.02 ~ )
+- 네이버 인턴 (2020.02 ~ 2020.03)
+- 멋쟁이사자처럼 9기 운영진 (2020.03 ~ )
 
 ## Stats
 ![Dooking's github stats](https://github-readme-stats.vercel.app/api?username=dooking&show_icons=true)
