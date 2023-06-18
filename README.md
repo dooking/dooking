@@ -2,7 +2,7 @@
 
 |         Type          |       Date        | Contents                                  |  Organization   |
 | :-------------------: | :---------------: | ----------------------------------------- | :-------------: |
-|       🏢 Company       | 2022.03 ~  | Front-End Engineer                       |     Hyundai Motor Group   |
+|       🏢 Company       | 2023.03 ~  | Front-End Engineer                       |     Hyundai Motor Group   |
 |       🏢 Company       | 2022.02 ~ 2022.11 | Co-Founder (FE, BE)                       |     BiDi AI   |
 | 👪 External activities | 2021.04 ~ 2021.12 | SW Maestro 12th                          |  한국정보산업연합회  |
 |     🏢 Internship      | 2021.02 ~ 2021.03 | NAVER GLACE CIC Internship                  |   NAVER    |
